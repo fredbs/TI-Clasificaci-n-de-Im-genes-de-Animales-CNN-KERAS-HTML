@@ -1,4 +1,4 @@
-# TI-Clasificación-de-Imágenes-de-Animales-CNN-KERAS-HTML
+# TI: Clasificación de Imágenes de Animales CNN-KERAS-HTML
 
 **Autor:** Brito, Fred
 
