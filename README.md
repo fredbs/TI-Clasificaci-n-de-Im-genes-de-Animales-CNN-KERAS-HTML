@@ -2,7 +2,10 @@
 
 **Autor:** Brito, Fred
 
-**Resumen:**  En este proyecto trabajo de investigación se derrollara un clasificador de Imagenes de animales utilizando Redes Neuronales Convulocionales (o CNN por sus siglas en inglés:Convolutional Neural Network). Se detallará brevemente e
+**Resumen:**  En este proyecto trabajo de investigación se derrollara un clasificador de Imagenes de animales utilizando Redes Neuronales Convulocionales (o CNN por sus siglas en inglés:Convolutional Neural Network). 
+
+Se puede probar una implementación en html del modelo usando la cámara del dispositivo en el siguiente link:
+> https://flossy-agate-rhinoceros.glitch.me/
 
 **Objetivo:** El objetivo de este trabajo es perfilar el uso de Clasificadores de Imagen usando Redes Neuronales Convolucionales.
 
